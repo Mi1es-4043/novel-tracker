@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>웹소설 조회수 트래커</title>
+  <link rel="stylesheet" href="assets/style.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="wrap topbar-inner">
+      <h1 class="brand">조회수 트래커</h1>
+      <select id="work-select" aria-label="작품 선택" hidden></select>
+      <span id="updated" class="muted small"></span>
+    </div>
+  </header>
+
+  <main class="wrap" id="app">
+    <p class="muted" id="loading">불러오는 중…</p>
+  </main>
+
+  <footer class="wrap footer muted small">
+    매일 자동 수집 · 네이버 시리즈 수치는 사이트 표기(반올림) 기준이라 하루 증가량에 약간의 오차가 있습니다.
+  </footer>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
