@@ -1,7 +1,7 @@
 {
     "id":  "sacheon-cia",
     "name":  "사천당가의 CIA 비밀 요원",
-    "updatedAt":  "2026-10-30T02:20:32+09:00",
+    "updatedAt":  "2026-10-30T02:32:58+09:00",
     "naver":  {
                   "url":  "https://series.naver.com/novel/detail.series?productNo=14384564",
                   "productNo":  "14384564",
@@ -19,7 +19,7 @@
                                  "매일10시무료"
                              ],
                   "cover":  "https://comicthumb-phinf.pstatic.net/20260626_78/pocket_1782457078183OF5lu_JPEG/%BB%E7%C3%B5%B4%E7%B0%A1%C0%C7_CIA_%BA%F1%B9%D0_%BF%E4%BF%F8_%C5%B8%C0%CC%C6%B2_%C3%D6%C1%BE.jpg?type=m600x314",
-                  "lastSuccess":  "2026-10-30T02:20:32+09:00",
+                  "lastSuccess":  "2026-10-30T02:32:58+09:00",
                   "lastError":  null
               },
     "munpia":  {
@@ -61,7 +61,7 @@
                    "cover":  "https://cdn1.munpia.com/v2/files/cover/2026/0616/12/FQrrTYgXMAA",
                    "introduction":  "사천 당가의 무인이었던 전생이 떠올랐다.\r\n그리고 떠난 미국 여행에서 하필 CIA 요원이랑 엮였다.",
                    "readers":  {
-                                   "male":  4535722,
+                                   "male":  4535735,
                                    "female":  471938,
                                    "age10s":  1.6,
                                    "age20s":  5.7,
@@ -69,16 +69,16 @@
                                    "age40s":  32.1,
                                    "age50s":  34.8
                                },
-                   "lastSuccess":  "2026-10-30T02:20:32+09:00",
+                   "lastSuccess":  "2026-10-30T02:32:58+09:00",
                    "lastError":  null
                },
     "history":  [
                     {
                         "date":  "2026-10-30",
                         "platform":  "munpia",
-                        "at":  "2026-10-30T02:20:32+09:00",
-                        "views":  5244357,
-                        "likes":  191971,
+                        "at":  "2026-10-30T02:32:58+09:00",
+                        "views":  5244370,
+                        "likes":  191972,
                         "prefers":  29893,
                         "chapters":  217,
                         "characters":  1367511,
@@ -88,7 +88,7 @@
                     {
                         "date":  "2026-10-30",
                         "platform":  "naver",
-                        "at":  "2026-10-30T02:20:32+09:00",
+                        "at":  "2026-10-30T02:32:58+09:00",
                         "views":  4026000,
                         "viewsText":  "402.6만",
                         "comments":  4300,
@@ -1729,7 +1729,7 @@
                                         "num":  177,
                                         "title":  "경계 (1)",
                                         "date":  "2026-09-13",
-                                        "views":  5235,
+                                        "views":  5236,
                                         "likes":  279,
                                         "comments":  18,
                                         "free":  false
@@ -1738,7 +1738,7 @@
                                         "num":  178,
                                         "title":  "경계 (2)",
                                         "date":  "2026-09-14",
-                                        "views":  5127,
+                                        "views":  5128,
                                         "likes":  302,
                                         "comments":  28,
                                         "free":  false
@@ -2008,7 +2008,7 @@
                                         "num":  208,
                                         "title":  "리청위의 귀환 (2)",
                                         "date":  "2026-10-19",
-                                        "views":  3104,
+                                        "views":  3105,
                                         "likes":  207,
                                         "comments":  17,
                                         "free":  false
@@ -2035,7 +2035,7 @@
                                         "num":  211,
                                         "title":  "기다리는 사람들",
                                         "date":  "2026-10-22",
-                                        "views":  2984,
+                                        "views":  2985,
                                         "likes":  228,
                                         "comments":  31,
                                         "free":  false
@@ -2062,7 +2062,7 @@
                                         "num":  214,
                                         "title":  "골드 러시 (3)",
                                         "date":  "2026-10-26",
-                                        "views":  2114,
+                                        "views":  2115,
                                         "likes":  148,
                                         "comments":  18,
                                         "free":  false
@@ -2071,7 +2071,7 @@
                                         "num":  215,
                                         "title":  "골드 러시 (4)",
                                         "date":  "2026-10-27",
-                                        "views":  1943,
+                                        "views":  1944,
                                         "likes":  130,
                                         "comments":  16,
                                         "free":  false
@@ -2080,7 +2080,7 @@
                                         "num":  216,
                                         "title":  "신주쿠의 귀신 (1)",
                                         "date":  "2026-10-28",
-                                        "views":  1667,
+                                        "views":  1668,
                                         "likes":  98,
                                         "comments":  10,
                                         "free":  false
@@ -2089,12 +2089,12 @@
                                         "num":  217,
                                         "title":  "신주쿠의 귀신 (2)",
                                         "date":  "2026-10-29",
-                                        "views":  774,
-                                        "likes":  44,
+                                        "views":  777,
+                                        "likes":  45,
                                         "comments":  9,
                                         "free":  false
                                     }
                                 ],
-                     "updatedAt":  "2026-10-30T02:20:32+09:00"
+                     "updatedAt":  "2026-10-30T02:32:58+09:00"
                  }
 }
