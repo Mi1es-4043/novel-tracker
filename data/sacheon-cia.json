@@ -1,7 +1,7 @@
 {
     "id":  "sacheon-cia",
     "name":  "사천당가의 CIA 비밀 요원",
-    "updatedAt":  "2026-10-31T04:44:59+09:00",
+    "updatedAt":  "2026-10-31T04:56:15+09:00",
     "naver":  {
                   "url":  "https://series.naver.com/novel/detail.series?productNo=14384564",
                   "productNo":  "14384564",
@@ -19,7 +19,7 @@
                                  "매일10시무료"
                              ],
                   "cover":  "https://comicthumb-phinf.pstatic.net/20260626_78/pocket_1782457078183OF5lu_JPEG/%BB%E7%C3%B5%B4%E7%B0%A1%C0%C7_CIA_%BA%F1%B9%D0_%BF%E4%BF%F8_%C5%B8%C0%CC%C6%B2_%C3%D6%C1%BE.jpg?type=m600x314",
-                  "lastSuccess":  "2026-10-31T04:44:59+09:00",
+                  "lastSuccess":  "2026-10-31T04:56:15+09:00",
                   "lastError":  null
               },
     "munpia":  {
@@ -61,7 +61,7 @@
                    "cover":  "https://cdn1.munpia.com/v2/files/cover/2026/0616/12/FQrrTYgXMAA",
                    "introduction":  "사천 당가의 무인이었던 전생이 떠올랐다.\r\n그리고 떠난 미국 여행에서 하필 CIA 요원이랑 엮였다.",
                    "readers":  {
-                                   "male":  4539954,
+                                   "male":  4539971,
                                    "female":  472308,
                                    "age10s":  1.6,
                                    "age20s":  5.7,
@@ -69,7 +69,7 @@
                                    "age40s":  32.1,
                                    "age50s":  34.8
                                },
-                   "lastSuccess":  "2026-10-31T04:44:59+09:00",
+                   "lastSuccess":  "2026-10-31T04:56:15+09:00",
                    "lastError":  null
                },
     "history":  [
@@ -103,8 +103,8 @@
                     {
                         "date":  "2026-10-31",
                         "platform":  "munpia",
-                        "at":  "2026-10-31T04:44:59+09:00",
-                        "views":  5249189,
+                        "at":  "2026-10-31T04:56:15+09:00",
+                        "views":  5249206,
                         "likes":  192192,
                         "prefers":  29880,
                         "chapters":  218,
@@ -115,7 +115,7 @@
                     {
                         "date":  "2026-10-31",
                         "platform":  "naver",
-                        "at":  "2026-10-31T04:44:59+09:00",
+                        "at":  "2026-10-31T04:56:15+09:00",
                         "views":  4053000,
                         "viewsText":  "405.3만",
                         "comments":  4300,
@@ -433,7 +433,7 @@
                                         "num":  30,
                                         "title":  "수료",
                                         "date":  "2026-04-01",
-                                        "views":  5779,
+                                        "views":  5780,
                                         "likes":  2021,
                                         "comments":  64,
                                         "free":  false
@@ -442,7 +442,7 @@
                                         "num":  31,
                                         "title":  "프라하 (1)",
                                         "date":  "2026-04-02",
-                                        "views":  5613,
+                                        "views":  5614,
                                         "likes":  2201,
                                         "comments":  95,
                                         "free":  false
@@ -451,7 +451,7 @@
                                         "num":  32,
                                         "title":  "프라하 (2)",
                                         "date":  "2026-04-03",
-                                        "views":  5533,
+                                        "views":  5534,
                                         "likes":  1920,
                                         "comments":  53,
                                         "free":  false
@@ -1873,7 +1873,7 @@
                                         "num":  190,
                                         "title":  "남겨두는 것들",
                                         "date":  "2026-09-25",
-                                        "views":  4700,
+                                        "views":  4701,
                                         "likes":  324,
                                         "comments":  29,
                                         "free":  false
@@ -1882,7 +1882,7 @@
                                         "num":  191,
                                         "title":  "홍콩의 유령 (1)",
                                         "date":  "2026-09-28",
-                                        "views":  4643,
+                                        "views":  4644,
                                         "likes":  250,
                                         "comments":  21,
                                         "free":  false
@@ -2017,7 +2017,7 @@
                                         "num":  206,
                                         "title":  "훙롄그룹 (3)",
                                         "date":  "2026-10-16",
-                                        "views":  3141,
+                                        "views":  3142,
                                         "likes":  206,
                                         "comments":  18,
                                         "free":  false
@@ -2071,7 +2071,7 @@
                                         "num":  212,
                                         "title":  "골드 러시 (1)",
                                         "date":  "2026-10-23",
-                                        "views":  2756,
+                                        "views":  2757,
                                         "likes":  173,
                                         "comments":  9,
                                         "free":  false
@@ -2107,7 +2107,7 @@
                                         "num":  216,
                                         "title":  "신주쿠의 귀신 (1)",
                                         "date":  "2026-10-28",
-                                        "views":  1926,
+                                        "views":  1927,
                                         "likes":  111,
                                         "comments":  11,
                                         "free":  false
@@ -2116,7 +2116,7 @@
                                         "num":  217,
                                         "title":  "신주쿠의 귀신 (2)",
                                         "date":  "2026-10-29",
-                                        "views":  1575,
+                                        "views":  1577,
                                         "likes":  103,
                                         "comments":  19,
                                         "free":  false
@@ -2125,12 +2125,12 @@
                                         "num":  218,
                                         "title":  "신주쿠의 귀신 (3)",
                                         "date":  "2026-10-30",
-                                        "views":  798,
+                                        "views":  802,
                                         "likes":  59,
                                         "comments":  7,
                                         "free":  false
                                     }
                                 ],
-                     "updatedAt":  "2026-10-31T04:44:59+09:00"
+                     "updatedAt":  "2026-10-31T04:56:15+09:00"
                  }
 }
