@@ -36,5 +36,12 @@ jobs:
           if ($LASTEXITCODE -eq 0) { Write-Host "no changes"; exit 0 }
           $t = [DateTime]::UtcNow.AddHours(9).ToString('yyyy-MM-dd HH:mm')
           git commit -m "data: $t KST"
-          git pull --rebase
-          git push
+          # retry up to 4 times on transient GitHub errors (e.g. Internal Server Error)
+          foreach ($i in 1..4) {
+            git pull --rebase
+            git push
+            if ($LASTEXITCODE -eq 0) { exit 0 }
+            Write-Host "push failed (try $i), retrying in $($i * 15)s"
+            Start-Sleep -Seconds ($i * 15)
+          }
+          exit 1
