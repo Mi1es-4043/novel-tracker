@@ -1,7 +1,7 @@
 {
     "id":  "sacheon-cia",
     "name":  "사천당가의 CIA 비밀 요원",
-    "updatedAt":  "2026-11-10T04:50:26+09:00",
+    "updatedAt":  "2026-11-10T08:36:35+09:00",
     "naver":  {
                   "url":  "https://series.naver.com/novel/detail.series?productNo=14384564",
                   "productNo":  "14384564",
@@ -19,7 +19,7 @@
                                  "매일10시무료"
                              ],
                   "cover":  "https://comicthumb-phinf.pstatic.net/20260626_78/pocket_1782457078183OF5lu_JPEG/%BB%E7%C3%B5%B4%E7%B0%A1%C0%C7_CIA_%BA%F1%B9%D0_%BF%E4%BF%F8_%C5%B8%C0%CC%C6%B2_%C3%D6%C1%BE.jpg?type=m600x314",
-                  "lastSuccess":  "2026-11-10T04:50:26+09:00",
+                  "lastSuccess":  "2026-11-10T08:36:35+09:00",
                   "lastError":  null
               },
     "munpia":  {
@@ -61,15 +61,15 @@
                    "cover":  "https://cdn1.munpia.com/v2/files/cover/2026/0616/12/FQrrTYgXMAA",
                    "introduction":  "사천 당가의 무인이었던 전생이 떠올랐다.\r\n그리고 떠난 미국 여행에서 하필 CIA 요원이랑 엮였다.",
                    "readers":  {
-                                   "male":  4577605,
-                                   "female":  474482,
+                                   "male":  4577954,
+                                   "female":  474504,
                                    "age10s":  1.6,
                                    "age20s":  5.7,
                                    "age30s":  25.8,
                                    "age40s":  32.2,
                                    "age50s":  34.7
                                },
-                   "lastSuccess":  "2026-11-10T04:50:26+09:00",
+                   "lastSuccess":  "2026-11-10T08:36:35+09:00",
                    "lastError":  null
                },
     "history":  [
@@ -373,9 +373,9 @@
                     {
                         "date":  "2026-11-10",
                         "platform":  "munpia",
-                        "at":  "2026-11-10T04:50:26+09:00",
-                        "views":  5290281,
-                        "likes":  193752,
+                        "at":  "2026-11-10T08:36:35+09:00",
+                        "views":  5290649,
+                        "likes":  193757,
                         "prefers":  29776,
                         "chapters":  224,
                         "characters":  1412050,
@@ -385,7 +385,7 @@
                     {
                         "date":  "2026-11-10",
                         "platform":  "naver",
-                        "at":  "2026-11-10T04:50:26+09:00",
+                        "at":  "2026-11-10T08:36:35+09:00",
                         "views":  4182000,
                         "viewsText":  "418.2만",
                         "comments":  4400,
@@ -456,7 +456,7 @@
                                         "num":  1,
                                         "title":  "네바다행 야간 버스",
                                         "date":  "2026-03-04",
-                                        "views":  114569,
+                                        "views":  114572,
                                         "likes":  2192,
                                         "comments":  80,
                                         "free":  true
@@ -465,7 +465,7 @@
                                         "num":  2,
                                         "title":  "뭐 하는 사람이라고요?",
                                         "date":  "2026-03-04",
-                                        "views":  94325,
+                                        "views":  94327,
                                         "likes":  2184,
                                         "comments":  64,
                                         "free":  true
@@ -474,7 +474,7 @@
                                         "num":  3,
                                         "title":  "여행의 해프닝",
                                         "date":  "2026-03-05",
-                                        "views":  90653,
+                                        "views":  90656,
                                         "likes":  2093,
                                         "comments":  66,
                                         "free":  true
@@ -483,7 +483,7 @@
                                         "num":  4,
                                         "title":  "좋은 제안",
                                         "date":  "2026-03-06",
-                                        "views":  90633,
+                                        "views":  90635,
                                         "likes":  2019,
                                         "comments":  114,
                                         "free":  true
@@ -492,7 +492,7 @@
                                         "num":  5,
                                         "title":  "홍콩 출장 (1)",
                                         "date":  "2026-03-07",
-                                        "views":  89152,
+                                        "views":  89154,
                                         "likes":  1877,
                                         "comments":  56,
                                         "free":  true
@@ -501,7 +501,7 @@
                                         "num":  6,
                                         "title":  "홍콩 출장 (2)",
                                         "date":  "2026-03-08",
-                                        "views":  84910,
+                                        "views":  84911,
                                         "likes":  1920,
                                         "comments":  62,
                                         "free":  true
@@ -510,7 +510,7 @@
                                         "num":  7,
                                         "title":  "홍콩 출장 (3)",
                                         "date":  "2026-03-09",
-                                        "views":  84869,
+                                        "views":  84870,
                                         "likes":  1867,
                                         "comments":  42,
                                         "free":  true
@@ -519,7 +519,7 @@
                                         "num":  8,
                                         "title":  "파국",
                                         "date":  "2026-03-10",
-                                        "views":  77776,
+                                        "views":  77777,
                                         "likes":  1804,
                                         "comments":  30,
                                         "free":  true
@@ -546,7 +546,7 @@
                                         "num":  11,
                                         "title":  "추적",
                                         "date":  "2026-03-13",
-                                        "views":  77449,
+                                        "views":  77451,
                                         "likes":  1800,
                                         "comments":  70,
                                         "free":  true
@@ -555,7 +555,7 @@
                                         "num":  12,
                                         "title":  "마지막 밤",
                                         "date":  "2026-03-14",
-                                        "views":  75529,
+                                        "views":  75530,
                                         "likes":  2004,
                                         "comments":  55,
                                         "free":  true
@@ -600,7 +600,7 @@
                                         "num":  17,
                                         "title":  "Welcome to Japan",
                                         "date":  "2026-03-19",
-                                        "views":  76081,
+                                        "views":  76082,
                                         "likes":  1951,
                                         "comments":  55,
                                         "free":  true
@@ -609,7 +609,7 @@
                                         "num":  18,
                                         "title":  "오사카 (1)",
                                         "date":  "2026-03-20",
-                                        "views":  71167,
+                                        "views":  71168,
                                         "likes":  1780,
                                         "comments":  42,
                                         "free":  true
@@ -618,7 +618,7 @@
                                         "num":  19,
                                         "title":  "오사카 (2)",
                                         "date":  "2026-03-21",
-                                        "views":  68227,
+                                        "views":  68228,
                                         "likes":  1920,
                                         "comments":  60,
                                         "free":  true
@@ -663,7 +663,7 @@
                                         "num":  24,
                                         "title":  "야행(夜行) (4)",
                                         "date":  "2026-03-26",
-                                        "views":  67672,
+                                        "views":  67674,
                                         "likes":  2117,
                                         "comments":  120,
                                         "free":  true
@@ -672,7 +672,7 @@
                                         "num":  25,
                                         "title":  "캠프 피어리",
                                         "date":  "2026-03-27",
-                                        "views":  69383,
+                                        "views":  69385,
                                         "likes":  2009,
                                         "comments":  74,
                                         "free":  true
@@ -771,7 +771,7 @@
                                         "num":  36,
                                         "title":  "카 체이스(Car Chase) (3)",
                                         "date":  "2026-04-07",
-                                        "views":  5441,
+                                        "views":  5442,
                                         "likes":  2002,
                                         "comments":  65,
                                         "free":  false
@@ -843,7 +843,7 @@
                                         "num":  44,
                                         "title":  "이탈리아 세미나 (3)",
                                         "date":  "2026-04-15",
-                                        "views":  5794,
+                                        "views":  5795,
                                         "likes":  1892,
                                         "comments":  116,
                                         "free":  false
@@ -852,7 +852,7 @@
                                         "num":  45,
                                         "title":  "나폴리 마피아 (1)",
                                         "date":  "2026-04-16",
-                                        "views":  5970,
+                                        "views":  5971,
                                         "likes":  1910,
                                         "comments":  109,
                                         "free":  false
@@ -861,7 +861,7 @@
                                         "num":  46,
                                         "title":  "나폴리 마피아 (2)",
                                         "date":  "2026-04-17",
-                                        "views":  6153,
+                                        "views":  6154,
                                         "likes":  1978,
                                         "comments":  147,
                                         "free":  false
@@ -870,7 +870,7 @@
                                         "num":  47,
                                         "title":  "나폴리 마피아 (3)",
                                         "date":  "2026-04-18",
-                                        "views":  6449,
+                                        "views":  6450,
                                         "likes":  1766,
                                         "comments":  101,
                                         "free":  false
@@ -879,7 +879,7 @@
                                         "num":  48,
                                         "title":  "밤 산책 (1)",
                                         "date":  "2026-04-19",
-                                        "views":  7070,
+                                        "views":  7071,
                                         "likes":  1570,
                                         "comments":  79,
                                         "free":  false
@@ -888,7 +888,7 @@
                                         "num":  49,
                                         "title":  "밤 산책 (2)",
                                         "date":  "2026-04-20",
-                                        "views":  8644,
+                                        "views":  8645,
                                         "likes":  1742,
                                         "comments":  114,
                                         "free":  false
@@ -897,7 +897,7 @@
                                         "num":  50,
                                         "title":  "밤 산책 (3) (유료 시작)",
                                         "date":  "2026-04-21",
-                                        "views":  22385,
+                                        "views":  22387,
                                         "likes":  1236,
                                         "comments":  950,
                                         "free":  false
@@ -906,7 +906,7 @@
                                         "num":  51,
                                         "title":  "코르네토",
                                         "date":  "2026-04-21",
-                                        "views":  22836,
+                                        "views":  22838,
                                         "likes":  1550,
                                         "comments":  972,
                                         "free":  false
@@ -915,7 +915,7 @@
                                         "num":  52,
                                         "title":  "영업 재개 (1)",
                                         "date":  "2026-04-22",
-                                        "views":  22158,
+                                        "views":  22160,
                                         "likes":  1313,
                                         "comments":  167,
                                         "free":  false
@@ -924,7 +924,7 @@
                                         "num":  53,
                                         "title":  "영업 재개 (2)",
                                         "date":  "2026-04-23",
-                                        "views":  21342,
+                                        "views":  21344,
                                         "likes":  1167,
                                         "comments":  96,
                                         "free":  false
@@ -933,7 +933,7 @@
                                         "num":  54,
                                         "title":  "영업 재개 (3)",
                                         "date":  "2026-04-24",
-                                        "views":  21051,
+                                        "views":  21053,
                                         "likes":  1182,
                                         "comments":  91,
                                         "free":  false
@@ -942,7 +942,7 @@
                                         "num":  55,
                                         "title":  "이스탄불 (1)",
                                         "date":  "2026-04-25",
-                                        "views":  20411,
+                                        "views":  20413,
                                         "likes":  1053,
                                         "comments":  54,
                                         "free":  false
@@ -951,7 +951,7 @@
                                         "num":  56,
                                         "title":  "이스탄불 (2)",
                                         "date":  "2026-04-26",
-                                        "views":  19531,
+                                        "views":  19533,
                                         "likes":  1052,
                                         "comments":  60,
                                         "free":  false
@@ -960,7 +960,7 @@
                                         "num":  57,
                                         "title":  "위대한 빈센트 (1)",
                                         "date":  "2026-04-27",
-                                        "views":  18963,
+                                        "views":  18965,
                                         "likes":  991,
                                         "comments":  42,
                                         "free":  false
@@ -969,7 +969,7 @@
                                         "num":  58,
                                         "title":  "위대한 빈센트 (2)",
                                         "date":  "2026-04-28",
-                                        "views":  18281,
+                                        "views":  18283,
                                         "likes":  932,
                                         "comments":  46,
                                         "free":  false
@@ -978,7 +978,7 @@
                                         "num":  59,
                                         "title":  "위대한 빈센트 (3)",
                                         "date":  "2026-04-29",
-                                        "views":  18014,
+                                        "views":  18015,
                                         "likes":  940,
                                         "comments":  66,
                                         "free":  false
@@ -987,7 +987,7 @@
                                         "num":  60,
                                         "title":  "경매 (1)",
                                         "date":  "2026-04-30",
-                                        "views":  17567,
+                                        "views":  17568,
                                         "likes":  919,
                                         "comments":  40,
                                         "free":  false
@@ -996,7 +996,7 @@
                                         "num":  61,
                                         "title":  "경매 (2)",
                                         "date":  "2026-05-01",
-                                        "views":  17252,
+                                        "views":  17253,
                                         "likes":  964,
                                         "comments":  57,
                                         "free":  false
@@ -1059,7 +1059,7 @@
                                         "num":  68,
                                         "title":  "흑사회 말단 조직원 (2)",
                                         "date":  "2026-05-08",
-                                        "views":  16279,
+                                        "views":  16281,
                                         "likes":  838,
                                         "comments":  55,
                                         "free":  false
@@ -1068,7 +1068,7 @@
                                         "num":  69,
                                         "title":  "흑사회 말단 조직원 (3)",
                                         "date":  "2026-05-09",
-                                        "views":  16087,
+                                        "views":  16089,
                                         "likes":  906,
                                         "comments":  66,
                                         "free":  false
@@ -1077,7 +1077,7 @@
                                         "num":  70,
                                         "title":  "귀견수(鬼見愁) (1)",
                                         "date":  "2026-05-10",
-                                        "views":  16024,
+                                        "views":  16025,
                                         "likes":  891,
                                         "comments":  55,
                                         "free":  false
@@ -1086,7 +1086,7 @@
                                         "num":  71,
                                         "title":  "귀견수(鬼見愁) (2)",
                                         "date":  "2026-05-11",
-                                        "views":  15747,
+                                        "views":  15748,
                                         "likes":  877,
                                         "comments":  67,
                                         "free":  false
@@ -1095,7 +1095,7 @@
                                         "num":  72,
                                         "title":  "귀견수(鬼見愁) (3)",
                                         "date":  "2026-05-12",
-                                        "views":  15541,
+                                        "views":  15542,
                                         "likes":  845,
                                         "comments":  52,
                                         "free":  false
@@ -1104,7 +1104,7 @@
                                         "num":  73,
                                         "title":  "귀견수(鬼見愁) (4)",
                                         "date":  "2026-05-13",
-                                        "views":  15441,
+                                        "views":  15442,
                                         "likes":  960,
                                         "comments":  63,
                                         "free":  false
@@ -1113,7 +1113,7 @@
                                         "num":  74,
                                         "title":  "칼춤 (1)",
                                         "date":  "2026-05-14",
-                                        "views":  15408,
+                                        "views":  15409,
                                         "likes":  810,
                                         "comments":  57,
                                         "free":  false
@@ -1122,7 +1122,7 @@
                                         "num":  75,
                                         "title":  "칼춤 (2)",
                                         "date":  "2026-05-15",
-                                        "views":  15048,
+                                        "views":  15049,
                                         "likes":  841,
                                         "comments":  64,
                                         "free":  false
@@ -1131,7 +1131,7 @@
                                         "num":  76,
                                         "title":  "칼춤 (3)",
                                         "date":  "2026-05-16",
-                                        "views":  15038,
+                                        "views":  15039,
                                         "likes":  821,
                                         "comments":  52,
                                         "free":  false
@@ -1140,7 +1140,7 @@
                                         "num":  77,
                                         "title":  "나이트 런 (1)",
                                         "date":  "2026-05-17",
-                                        "views":  14760,
+                                        "views":  14761,
                                         "likes":  771,
                                         "comments":  36,
                                         "free":  false
@@ -1149,7 +1149,7 @@
                                         "num":  78,
                                         "title":  "나이트 런 (2)",
                                         "date":  "2026-05-18",
-                                        "views":  14518,
+                                        "views":  14519,
                                         "likes":  813,
                                         "comments":  67,
                                         "free":  false
@@ -1365,7 +1365,7 @@
                                         "num":  102,
                                         "title":  "야반 도주 (2)",
                                         "date":  "2026-06-15",
-                                        "views":  12353,
+                                        "views":  12354,
                                         "likes":  776,
                                         "comments":  54,
                                         "free":  false
@@ -1374,7 +1374,7 @@
                                         "num":  103,
                                         "title":  "야반 도주 (3)",
                                         "date":  "2026-06-16",
-                                        "views":  12344,
+                                        "views":  12345,
                                         "likes":  769,
                                         "comments":  47,
                                         "free":  false
@@ -1383,7 +1383,7 @@
                                         "num":  104,
                                         "title":  "엘 디아블로 (1)",
                                         "date":  "2026-06-17",
-                                        "views":  12344,
+                                        "views":  12345,
                                         "likes":  769,
                                         "comments":  67,
                                         "free":  false
@@ -1392,7 +1392,7 @@
                                         "num":  105,
                                         "title":  "엘 디아블로 (2)",
                                         "date":  "2026-06-18",
-                                        "views":  12327,
+                                        "views":  12328,
                                         "likes":  772,
                                         "comments":  63,
                                         "free":  false
@@ -1401,7 +1401,7 @@
                                         "num":  106,
                                         "title":  "엘 디아블로 (3)",
                                         "date":  "2026-06-19",
-                                        "views":  12292,
+                                        "views":  12293,
                                         "likes":  679,
                                         "comments":  37,
                                         "free":  false
@@ -1410,7 +1410,7 @@
                                         "num":  107,
                                         "title":  "탈환 (1)",
                                         "date":  "2026-06-21",
-                                        "views":  12152,
+                                        "views":  12153,
                                         "likes":  654,
                                         "comments":  33,
                                         "free":  false
@@ -1419,7 +1419,7 @@
                                         "num":  108,
                                         "title":  "탈환 (2)",
                                         "date":  "2026-06-22",
-                                        "views":  12075,
+                                        "views":  12076,
                                         "likes":  749,
                                         "comments":  51,
                                         "free":  false
@@ -1428,7 +1428,7 @@
                                         "num":  109,
                                         "title":  "에스코트",
                                         "date":  "2026-06-23",
-                                        "views":  12237,
+                                        "views":  12238,
                                         "likes":  802,
                                         "comments":  86,
                                         "free":  false
@@ -1437,7 +1437,7 @@
                                         "num":  110,
                                         "title":  "송곳",
                                         "date":  "2026-06-24",
-                                        "views":  12206,
+                                        "views":  12207,
                                         "likes":  706,
                                         "comments":  34,
                                         "free":  false
@@ -1446,7 +1446,7 @@
                                         "num":  111,
                                         "title":  "어서 와, 한국은 처음이지? (1)",
                                         "date":  "2026-06-25",
-                                        "views":  12315,
+                                        "views":  12316,
                                         "likes":  694,
                                         "comments":  57,
                                         "free":  false
@@ -1455,7 +1455,7 @@
                                         "num":  112,
                                         "title":  "어서 와, 한국은 처음이지? (2)",
                                         "date":  "2026-06-26",
-                                        "views":  12024,
+                                        "views":  12025,
                                         "likes":  649,
                                         "comments":  38,
                                         "free":  false
@@ -1464,7 +1464,7 @@
                                         "num":  113,
                                         "title":  "어서 와, 한국은 처음이지? (3)",
                                         "date":  "2026-06-28",
-                                        "views":  11794,
+                                        "views":  11795,
                                         "likes":  634,
                                         "comments":  38,
                                         "free":  false
@@ -1473,7 +1473,7 @@
                                         "num":  114,
                                         "title":  "선양 출장",
                                         "date":  "2026-06-29",
-                                        "views":  11674,
+                                        "views":  11675,
                                         "likes":  668,
                                         "comments":  52,
                                         "free":  false
@@ -1482,7 +1482,7 @@
                                         "num":  115,
                                         "title":  "컨설턴트 (1)",
                                         "date":  "2026-06-30",
-                                        "views":  11534,
+                                        "views":  11535,
                                         "likes":  752,
                                         "comments":  59,
                                         "free":  false
@@ -1491,7 +1491,7 @@
                                         "num":  116,
                                         "title":  "컨설턴트 (2)",
                                         "date":  "2026-07-01",
-                                        "views":  11470,
+                                        "views":  11471,
                                         "likes":  650,
                                         "comments":  43,
                                         "free":  false
@@ -1500,7 +1500,7 @@
                                         "num":  117,
                                         "title":  "컨설턴트 (3)",
                                         "date":  "2026-07-02",
-                                        "views":  11384,
+                                        "views":  11385,
                                         "likes":  622,
                                         "comments":  31,
                                         "free":  false
@@ -1509,7 +1509,7 @@
                                         "num":  118,
                                         "title":  "진솔한 이야기 (1)",
                                         "date":  "2026-07-03",
-                                        "views":  11339,
+                                        "views":  11340,
                                         "likes":  640,
                                         "comments":  43,
                                         "free":  false
@@ -1518,7 +1518,7 @@
                                         "num":  119,
                                         "title":  "진솔한 이야기 (2)",
                                         "date":  "2026-07-05",
-                                        "views":  11185,
+                                        "views":  11186,
                                         "likes":  666,
                                         "comments":  42,
                                         "free":  false
@@ -1527,7 +1527,7 @@
                                         "num":  120,
                                         "title":  "진솔한 이야기 (3)",
                                         "date":  "2026-07-06",
-                                        "views":  11116,
+                                        "views":  11117,
                                         "likes":  657,
                                         "comments":  52,
                                         "free":  false
@@ -1536,8 +1536,8 @@
                                         "num":  121,
                                         "title":  "투자 상담 (1)",
                                         "date":  "2026-07-07",
-                                        "views":  10950,
-                                        "likes":  716,
+                                        "views":  10951,
+                                        "likes":  717,
                                         "comments":  62,
                                         "free":  false
                                     },
@@ -1545,7 +1545,7 @@
                                         "num":  122,
                                         "title":  "투자 상담 (2)",
                                         "date":  "2026-07-08",
-                                        "views":  10897,
+                                        "views":  10899,
                                         "likes":  611,
                                         "comments":  27,
                                         "free":  false
@@ -1554,7 +1554,7 @@
                                         "num":  123,
                                         "title":  "구출 (1)",
                                         "date":  "2026-07-09",
-                                        "views":  10618,
+                                        "views":  10619,
                                         "likes":  659,
                                         "comments":  55,
                                         "free":  false
@@ -1563,7 +1563,7 @@
                                         "num":  124,
                                         "title":  "구출 (2)",
                                         "date":  "2026-07-10",
-                                        "views":  10525,
+                                        "views":  10526,
                                         "likes":  574,
                                         "comments":  42,
                                         "free":  false
@@ -1572,7 +1572,7 @@
                                         "num":  125,
                                         "title":  "구출 (3)",
                                         "date":  "2026-07-11",
-                                        "views":  10640,
+                                        "views":  10641,
                                         "likes":  593,
                                         "comments":  42,
                                         "free":  false
@@ -1581,7 +1581,7 @@
                                         "num":  126,
                                         "title":  "김치찌개",
                                         "date":  "2026-07-12",
-                                        "views":  10702,
+                                        "views":  10703,
                                         "likes":  646,
                                         "comments":  44,
                                         "free":  false
@@ -1590,7 +1590,7 @@
                                         "num":  127,
                                         "title":  "견습 요원의 수사 일지 (1)",
                                         "date":  "2026-07-13",
-                                        "views":  10576,
+                                        "views":  10577,
                                         "likes":  589,
                                         "comments":  59,
                                         "free":  false
@@ -1599,7 +1599,7 @@
                                         "num":  128,
                                         "title":  "견습 요원의 수사 일지 (2)",
                                         "date":  "2026-07-14",
-                                        "views":  9943,
+                                        "views":  9944,
                                         "likes":  532,
                                         "comments":  47,
                                         "free":  false
@@ -1788,7 +1788,7 @@
                                         "num":  149,
                                         "title":  "사냥개와 여우의 밤 (3)",
                                         "date":  "2026-08-09",
-                                        "views":  7891,
+                                        "views":  7892,
                                         "likes":  451,
                                         "comments":  24,
                                         "free":  false
@@ -1797,7 +1797,7 @@
                                         "num":  150,
                                         "title":  "사냥개와 여우의 밤 (4)",
                                         "date":  "2026-08-10",
-                                        "views":  7927,
+                                        "views":  7928,
                                         "likes":  519,
                                         "comments":  35,
                                         "free":  false
@@ -1806,7 +1806,7 @@
                                         "num":  151,
                                         "title":  "프라하의 크리스마스 (1)",
                                         "date":  "2026-08-11",
-                                        "views":  7915,
+                                        "views":  7916,
                                         "likes":  504,
                                         "comments":  68,
                                         "free":  false
@@ -1815,7 +1815,7 @@
                                         "num":  152,
                                         "title":  "프라하의 크리스마스 (2)",
                                         "date":  "2026-08-12",
-                                        "views":  7723,
+                                        "views":  7724,
                                         "likes":  468,
                                         "comments":  71,
                                         "free":  false
@@ -1824,7 +1824,7 @@
                                         "num":  153,
                                         "title":  "주말 산책 (1)",
                                         "date":  "2026-08-13",
-                                        "views":  7749,
+                                        "views":  7750,
                                         "likes":  435,
                                         "comments":  29,
                                         "free":  false
@@ -1995,8 +1995,8 @@
                                         "num":  172,
                                         "title":  "예카테리나 소콜로바 (1)",
                                         "date":  "2026-09-07",
-                                        "views":  6130,
-                                        "likes":  363,
+                                        "views":  6131,
+                                        "likes":  364,
                                         "comments":  20,
                                         "free":  false
                                     },
@@ -2004,7 +2004,7 @@
                                         "num":  173,
                                         "title":  "예카테리나 소콜로바 (2)",
                                         "date":  "2026-09-08",
-                                        "views":  6076,
+                                        "views":  6077,
                                         "likes":  380,
                                         "comments":  45,
                                         "free":  false
@@ -2022,7 +2022,7 @@
                                         "num":  175,
                                         "title":  "부채질 (2)",
                                         "date":  "2026-09-10",
-                                        "views":  5737,
+                                        "views":  5738,
                                         "likes":  283,
                                         "comments":  12,
                                         "free":  false
@@ -2077,7 +2077,7 @@
                                         "title":  "특별 세션 (1)",
                                         "date":  "2026-09-17",
                                         "views":  5515,
-                                        "likes":  324,
+                                        "likes":  325,
                                         "comments":  30,
                                         "free":  false
                                     },
@@ -2085,7 +2085,7 @@
                                         "num":  182,
                                         "title":  "특별 세션 (2)",
                                         "date":  "2026-09-18",
-                                        "views":  5403,
+                                        "views":  5404,
                                         "likes":  312,
                                         "comments":  25,
                                         "free":  false
@@ -2094,7 +2094,7 @@
                                         "num":  183,
                                         "title":  "특별 세션 (3)",
                                         "date":  "2026-09-20",
-                                        "views":  5326,
+                                        "views":  5328,
                                         "likes":  337,
                                         "comments":  22,
                                         "free":  false
@@ -2103,7 +2103,7 @@
                                         "num":  184,
                                         "title":  "별것 아닌 일",
                                         "date":  "2026-09-21",
-                                        "views":  5143,
+                                        "views":  5144,
                                         "likes":  264,
                                         "comments":  20,
                                         "free":  false
@@ -2112,7 +2112,7 @@
                                         "num":  185,
                                         "title":  "함정 (1)",
                                         "date":  "2026-09-22",
-                                        "views":  4930,
+                                        "views":  4931,
                                         "likes":  246,
                                         "comments":  17,
                                         "free":  false
@@ -2121,7 +2121,7 @@
                                         "num":  186,
                                         "title":  "함정 (2)",
                                         "date":  "2026-09-22",
-                                        "views":  4845,
+                                        "views":  4846,
                                         "likes":  270,
                                         "comments":  14,
                                         "free":  false
@@ -2130,7 +2130,7 @@
                                         "num":  187,
                                         "title":  "함정 (3)",
                                         "date":  "2026-09-22",
-                                        "views":  4915,
+                                        "views":  4917,
                                         "likes":  343,
                                         "comments":  49,
                                         "free":  false
@@ -2139,7 +2139,7 @@
                                         "num":  188,
                                         "title":  "다가오는 위기 (1)",
                                         "date":  "2026-09-23",
-                                        "views":  4785,
+                                        "views":  4787,
                                         "likes":  299,
                                         "comments":  25,
                                         "free":  false
@@ -2148,7 +2148,7 @@
                                         "num":  189,
                                         "title":  "다가오는 위기 (２)",
                                         "date":  "2026-09-24",
-                                        "views":  4799,
+                                        "views":  4801,
                                         "likes":  316,
                                         "comments":  25,
                                         "free":  false
@@ -2157,7 +2157,7 @@
                                         "num":  190,
                                         "title":  "남겨두는 것들",
                                         "date":  "2026-09-25",
-                                        "views":  4855,
+                                        "views":  4857,
                                         "likes":  326,
                                         "comments":  29,
                                         "free":  false
@@ -2166,7 +2166,7 @@
                                         "num":  191,
                                         "title":  "홍콩의 유령 (1)",
                                         "date":  "2026-09-28",
-                                        "views":  4813,
+                                        "views":  4815,
                                         "likes":  252,
                                         "comments":  21,
                                         "free":  false
@@ -2175,7 +2175,7 @@
                                         "num":  192,
                                         "title":  "홍콩의 유령 (2)",
                                         "date":  "2026-09-29",
-                                        "views":  4567,
+                                        "views":  4572,
                                         "likes":  286,
                                         "comments":  19,
                                         "free":  false
@@ -2184,7 +2184,7 @@
                                         "num":  193,
                                         "title":  "마카오 (1)",
                                         "date":  "2026-09-30",
-                                        "views":  4368,
+                                        "views":  4374,
                                         "likes":  250,
                                         "comments":  14,
                                         "free":  false
@@ -2193,7 +2193,7 @@
                                         "num":  194,
                                         "title":  "마카오 (2)",
                                         "date":  "2026-10-01",
-                                        "views":  4234,
+                                        "views":  4238,
                                         "likes":  230,
                                         "comments":  16,
                                         "free":  false
@@ -2202,7 +2202,7 @@
                                         "num":  195,
                                         "title":  "마카오 (3)",
                                         "date":  "2026-10-02",
-                                        "views":  4189,
+                                        "views":  4196,
                                         "likes":  247,
                                         "comments":  15,
                                         "free":  false
@@ -2211,7 +2211,7 @@
                                         "num":  196,
                                         "title":  "칼렘 베이 (1)",
                                         "date":  "2026-10-04",
-                                        "views":  4034,
+                                        "views":  4040,
                                         "likes":  223,
                                         "comments":  19,
                                         "free":  false
@@ -2220,7 +2220,7 @@
                                         "num":  197,
                                         "title":  "칼렘 베이 (2)",
                                         "date":  "2026-10-05",
-                                        "views":  3914,
+                                        "views":  3919,
                                         "likes":  257,
                                         "comments":  22,
                                         "free":  false
@@ -2229,7 +2229,7 @@
                                         "num":  198,
                                         "title":  "칼렘 베이 (3)",
                                         "date":  "2026-10-06",
-                                        "views":  3890,
+                                        "views":  3897,
                                         "likes":  211,
                                         "comments":  18,
                                         "free":  false
@@ -2238,7 +2238,7 @@
                                         "num":  199,
                                         "title":  "파라 (1)",
                                         "date":  "2026-10-07",
-                                        "views":  3781,
+                                        "views":  3786,
                                         "likes":  209,
                                         "comments":  17,
                                         "free":  false
@@ -2247,7 +2247,7 @@
                                         "num":  200,
                                         "title":  "파라 (2)",
                                         "date":  "2026-10-08",
-                                        "views":  3657,
+                                        "views":  3661,
                                         "likes":  256,
                                         "comments":  49,
                                         "free":  false
@@ -2256,7 +2256,7 @@
                                         "num":  201,
                                         "title":  "파라 (3)",
                                         "date":  "2026-10-09",
-                                        "views":  3582,
+                                        "views":  3586,
                                         "likes":  207,
                                         "comments":  22,
                                         "free":  false
@@ -2265,7 +2265,7 @@
                                         "num":  202,
                                         "title":  "칼렘 베이의 사람들",
                                         "date":  "2026-10-12",
-                                        "views":  3506,
+                                        "views":  3511,
                                         "likes":  216,
                                         "comments":  20,
                                         "free":  false
@@ -2274,7 +2274,7 @@
                                         "num":  203,
                                         "title":  "1,000만 달러",
                                         "date":  "2026-10-13",
-                                        "views":  3490,
+                                        "views":  3494,
                                         "likes":  216,
                                         "comments":  24,
                                         "free":  false
@@ -2283,7 +2283,7 @@
                                         "num":  204,
                                         "title":  "훙롄그룹 (1)",
                                         "date":  "2026-10-14",
-                                        "views":  3491,
+                                        "views":  3494,
                                         "likes":  218,
                                         "comments":  24,
                                         "free":  false
@@ -2292,7 +2292,7 @@
                                         "num":  205,
                                         "title":  "훙롄그룹 (2)",
                                         "date":  "2026-10-15",
-                                        "views":  3457,
+                                        "views":  3460,
                                         "likes":  232,
                                         "comments":  33,
                                         "free":  false
@@ -2301,7 +2301,7 @@
                                         "num":  206,
                                         "title":  "훙롄그룹 (3)",
                                         "date":  "2026-10-16",
-                                        "views":  3454,
+                                        "views":  3457,
                                         "likes":  217,
                                         "comments":  19,
                                         "free":  false
@@ -2310,7 +2310,7 @@
                                         "num":  207,
                                         "title":  "리청위의 귀환 (1)",
                                         "date":  "2026-10-18",
-                                        "views":  3533,
+                                        "views":  3536,
                                         "likes":  247,
                                         "comments":  20,
                                         "free":  false
@@ -2319,7 +2319,7 @@
                                         "num":  208,
                                         "title":  "리청위의 귀환 (2)",
                                         "date":  "2026-10-19",
-                                        "views":  3489,
+                                        "views":  3492,
                                         "likes":  224,
                                         "comments":  18,
                                         "free":  false
@@ -2328,7 +2328,7 @@
                                         "num":  209,
                                         "title":  "리청위의 귀환 (3)",
                                         "date":  "2026-10-20",
-                                        "views":  3443,
+                                        "views":  3448,
                                         "likes":  234,
                                         "comments":  21,
                                         "free":  false
@@ -2337,7 +2337,7 @@
                                         "num":  210,
                                         "title":  "리청위의 귀환 (4)",
                                         "date":  "2026-10-21",
-                                        "views":  3440,
+                                        "views":  3443,
                                         "likes":  250,
                                         "comments":  30,
                                         "free":  false
@@ -2346,7 +2346,7 @@
                                         "num":  211,
                                         "title":  "기다리는 사람들",
                                         "date":  "2026-10-22",
-                                        "views":  3449,
+                                        "views":  3452,
                                         "likes":  248,
                                         "comments":  32,
                                         "free":  false
@@ -2355,7 +2355,7 @@
                                         "num":  212,
                                         "title":  "골드 러시 (1)",
                                         "date":  "2026-10-23",
-                                        "views":  3236,
+                                        "views":  3240,
                                         "likes":  189,
                                         "comments":  9,
                                         "free":  false
@@ -2364,7 +2364,7 @@
                                         "num":  213,
                                         "title":  "골드 러시 (2)",
                                         "date":  "2026-10-25",
-                                        "views":  2997,
+                                        "views":  3001,
                                         "likes":  179,
                                         "comments":  22,
                                         "free":  false
@@ -2373,7 +2373,7 @@
                                         "num":  214,
                                         "title":  "골드 러시 (3)",
                                         "date":  "2026-10-26",
-                                        "views":  2848,
+                                        "views":  2849,
                                         "likes":  179,
                                         "comments":  20,
                                         "free":  false
@@ -2382,7 +2382,7 @@
                                         "num":  215,
                                         "title":  "골드 러시 (4)",
                                         "date":  "2026-10-27",
-                                        "views":  2819,
+                                        "views":  2822,
                                         "likes":  159,
                                         "comments":  17,
                                         "free":  false
@@ -2391,7 +2391,7 @@
                                         "num":  216,
                                         "title":  "신주쿠의 귀신 (1)",
                                         "date":  "2026-10-28",
-                                        "views":  2787,
+                                        "views":  2792,
                                         "likes":  140,
                                         "comments":  11,
                                         "free":  false
@@ -2400,7 +2400,7 @@
                                         "num":  217,
                                         "title":  "신주쿠의 귀신 (2)",
                                         "date":  "2026-10-29",
-                                        "views":  2571,
+                                        "views":  2576,
                                         "likes":  145,
                                         "comments":  20,
                                         "free":  false
@@ -2409,7 +2409,7 @@
                                         "num":  218,
                                         "title":  "신주쿠의 귀신 (3)",
                                         "date":  "2026-10-30",
-                                        "views":  2472,
+                                        "views":  2476,
                                         "likes":  151,
                                         "comments":  14,
                                         "free":  false
@@ -2418,7 +2418,7 @@
                                         "num":  219,
                                         "title":  "귀신 사냥 (1)",
                                         "date":  "2026-11-01",
-                                        "views":  2342,
+                                        "views":  2348,
                                         "likes":  147,
                                         "comments":  8,
                                         "free":  false
@@ -2427,16 +2427,16 @@
                                         "num":  220,
                                         "title":  "귀신 사냥 (2)",
                                         "date":  "2026-11-02",
-                                        "views":  2257,
+                                        "views":  2263,
                                         "likes":  159,
-                                        "comments":  18,
+                                        "comments":  19,
                                         "free":  false
                                     },
                                     {
                                         "num":  221,
                                         "title":  "그런데 갑자기 닌자가 나타나더니 (1)",
                                         "date":  "2026-11-03",
-                                        "views":  2218,
+                                        "views":  2224,
                                         "likes":  158,
                                         "comments":  22,
                                         "free":  false
@@ -2445,7 +2445,7 @@
                                         "num":  222,
                                         "title":  "그런데 갑자기 닌자가 나타나더니 (2)",
                                         "date":  "2026-11-04",
-                                        "views":  2137,
+                                        "views":  2145,
                                         "likes":  131,
                                         "comments":  16,
                                         "free":  false
@@ -2454,7 +2454,7 @@
                                         "num":  223,
                                         "title":  "그런데 갑자기 닌자가 나타나더니 (3)",
                                         "date":  "2026-11-06",
-                                        "views":  1953,
+                                        "views":  1965,
                                         "likes":  137,
                                         "comments":  18,
                                         "free":  false
@@ -2463,12 +2463,12 @@
                                         "num":  224,
                                         "title":  "각자의 자리",
                                         "date":  "2026-11-08",
-                                        "views":  1680,
-                                        "likes":  117,
+                                        "views":  1708,
+                                        "likes":  119,
                                         "comments":  17,
                                         "free":  false
                                     }
                                 ],
-                     "updatedAt":  "2026-11-10T04:50:26+09:00"
+                     "updatedAt":  "2026-11-10T08:36:35+09:00"
                  }
 }
