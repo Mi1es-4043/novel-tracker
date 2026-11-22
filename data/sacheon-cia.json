@@ -1,7 +1,7 @@
 {
     "id":  "sacheon-cia",
     "name":  "사천당가의 CIA 비밀 요원",
-    "updatedAt":  "2026-11-23T04:41:44+09:00",
+    "updatedAt":  "2026-11-23T05:51:16+09:00",
     "naver":  {
                   "url":  "https://series.naver.com/novel/detail.series?productNo=14384564",
                   "productNo":  "14384564",
@@ -19,7 +19,7 @@
                                  "매일10시무료"
                              ],
                   "cover":  "https://comicthumb-phinf.pstatic.net/20260626_78/pocket_1782457078183OF5lu_JPEG/%BB%E7%C3%B5%B4%E7%B0%A1%C0%C7_CIA_%BA%F1%B9%D0_%BF%E4%BF%F8_%C5%B8%C0%CC%C6%B2_%C3%D6%C1%BE.jpg?type=m600x314",
-                  "lastSuccess":  "2026-11-23T04:41:44+09:00",
+                  "lastSuccess":  "2026-11-23T05:51:16+09:00",
                   "lastError":  null
               },
     "munpia":  {
@@ -70,7 +70,7 @@
                                    "age50s":  34.6
                                },
                    "lastSuccess":  "2026-11-22T20:25:38+09:00",
-                   "lastError":  "2026-11-23T04:41:44+09:00 요청 실패 https://www.munpia.com/api/v1/pc/novel-detail/545835 : The remote server returned an error: (529) Server Error."
+                   "lastError":  "2026-11-23T05:51:16+09:00 요청 실패 https://www.munpia.com/api/v1/pc/novel-detail/545835 : The remote server returned an error: (529) Server Error."
                },
     "history":  [
                     {
@@ -724,7 +724,7 @@
                     {
                         "date":  "2026-11-23",
                         "platform":  "naver",
-                        "at":  "2026-11-23T04:41:44+09:00",
+                        "at":  "2026-11-23T05:51:16+09:00",
                         "views":  4335000,
                         "viewsText":  "433.5만",
                         "comments":  4600,
