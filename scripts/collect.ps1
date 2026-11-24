@@ -17,19 +17,23 @@ $NowKst = [DateTime]::UtcNow.AddHours(9)
 $Today = $NowKst.ToString('yyyy-MM-dd')
 $Stamp = $NowKst.ToString('yyyy-MM-ddTHH:mm:ss') + '+09:00'
 $script:Errors = @()
+# 이 시간 넘게 한 번도 수집에 성공하지 못한 플랫폼이 있을 때만 실행을 실패로 표시한다
+$StaleHours = 12
 
 if (-not (Test-Path $DataDir)) { New-Item -ItemType Directory -Path $DataDir | Out-Null }
 
 # ---------- 공통 도우미 ----------
 
 function Get-Page([string]$Url, [hashtable]$Headers = @{}) {
-    for ($i = 1; $i -le 3; $i++) {
+    # 사이트가 잠깐 과부하(5xx)일 때를 대비해 간격을 늘려 가며 4번까지 시도
+    $waits = 10, 30, 60
+    for ($i = 1; $i -le 4; $i++) {
         try {
             $r = Invoke-WebRequest -UseBasicParsing -UserAgent $UA -Headers $Headers -Uri $Url -TimeoutSec 30
             return [Text.Encoding]::UTF8.GetString($r.RawContentStream.ToArray())
         } catch {
-            if ($i -eq 3) { throw "요청 실패 $Url : $($_.Exception.Message)" }
-            Start-Sleep -Seconds (3 * $i)
+            if ($i -eq 4) { throw "요청 실패 $Url : $($_.Exception.Message)" }
+            Start-Sleep -Seconds $waits[$i - 1]
         }
     }
 }
@@ -417,8 +421,11 @@ foreach ($w in $config.works) {
             Write-Host "  [$platform] 조회수 $v / 순위 $(($r.row.rankAll, $r.row.rankGenre, $r.row.rank | Where-Object { $_ }) -join ', ')"
         } catch {
             $msg = "[$($w.name) / $platform] $($_.Exception.Message)"
-            $script:Errors += $msg
             Write-Warning $msg
+            # 한두 번의 일시 실패는 경고만 남기고, 마지막 성공이 오래됐을 때만 실패 처리(알림 메일)
+            $lastOk = Get-Prop $oldInfo 'lastSuccess'
+            $stale = (-not $lastOk) -or (([DateTimeOffset]::UtcNow - [DateTimeOffset]::Parse($lastOk, $Inv)).TotalHours -gt $StaleHours)
+            if ($stale) { $script:Errors += $msg } else { Write-Host "::warning::$msg" }
             if ($oldInfo) {
                 $oldInfo.lastError = "$Stamp $($_.Exception.Message)"
                 $platformInfo[$platform] = $oldInfo
@@ -442,7 +449,7 @@ foreach ($w in $config.works) {
 [IO.File]::WriteAllText((Join-Path $DataDir 'index.json'), (ConvertTo-Json -InputObject @{ works = $index; updatedAt = $Stamp } -Depth 6), $Utf8)
 
 if ($script:Errors.Count -gt 0) {
-    Write-Host "수집 중 오류 $($script:Errors.Count)건:"
+    Write-Host "${StaleHours}시간 넘게 수집에 실패한 항목 $($script:Errors.Count)건:"
     $script:Errors | ForEach-Object { Write-Host "  $_" }
     exit 1
 }
