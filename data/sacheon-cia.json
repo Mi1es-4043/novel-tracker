@@ -1,7 +1,7 @@
 {
     "id":  "sacheon-cia",
     "name":  "사천당가의 CIA 비밀 요원",
-    "updatedAt":  "2026-11-25T08:39:57+09:00",
+    "updatedAt":  "2026-11-25T08:53:59+09:00",
     "naver":  {
                   "url":  "https://series.naver.com/novel/detail.series?productNo=14384564",
                   "productNo":  "14384564",
@@ -19,7 +19,7 @@
                                  "매일10시무료"
                              ],
                   "cover":  "https://comicthumb-phinf.pstatic.net/20260626_78/pocket_1782457078183OF5lu_JPEG/%BB%E7%C3%B5%B4%E7%B0%A1%C0%C7_CIA_%BA%F1%B9%D0_%BF%E4%BF%F8_%C5%B8%C0%CC%C6%B2_%C3%D6%C1%BE.jpg?type=m600x314",
-                  "lastSuccess":  "2026-11-25T08:39:57+09:00",
+                  "lastSuccess":  "2026-11-25T08:53:59+09:00",
                   "lastError":  null
               },
     "munpia":  {
@@ -61,15 +61,15 @@
                    "cover":  "https://cdn1.munpia.com/v2/files/cover/2026/0616/12/FQrrTYgXMAA",
                    "introduction":  "사천 당가의 무인이었던 전생이 떠올랐다.\r\n그리고 떠난 미국 여행에서 하필 CIA 요원이랑 엮였다.",
                    "readers":  {
-                                   "male":  4630532,
-                                   "female":  477483,
+                                   "male":  4630562,
+                                   "female":  477487,
                                    "age10s":  1.6,
                                    "age20s":  5.7,
                                    "age30s":  25.8,
                                    "age40s":  32.3,
                                    "age50s":  34.6
                                },
-                   "lastSuccess":  "2026-11-25T08:39:57+09:00",
+                   "lastSuccess":  "2026-11-25T08:53:59+09:00",
                    "lastError":  null
                },
     "history":  [
@@ -778,8 +778,8 @@
                     {
                         "date":  "2026-11-25",
                         "platform":  "munpia",
-                        "at":  "2026-11-25T08:39:57+09:00",
-                        "views":  5348038,
+                        "at":  "2026-11-25T08:53:59+09:00",
+                        "views":  5348065,
                         "likes":  196239,
                         "prefers":  29603,
                         "chapters":  236,
@@ -790,7 +790,7 @@
                     {
                         "date":  "2026-11-25",
                         "platform":  "naver",
-                        "at":  "2026-11-25T08:39:57+09:00",
+                        "at":  "2026-11-25T08:53:59+09:00",
                         "views":  4409000,
                         "viewsText":  "440.9만",
                         "comments":  4700,
@@ -1005,7 +1005,7 @@
                                         "num":  17,
                                         "title":  "Welcome to Japan",
                                         "date":  "2026-03-19",
-                                        "views":  76202,
+                                        "views":  76203,
                                         "likes":  1953,
                                         "comments":  55,
                                         "free":  true
@@ -1014,7 +1014,7 @@
                                         "num":  18,
                                         "title":  "오사카 (1)",
                                         "date":  "2026-03-20",
-                                        "views":  71282,
+                                        "views":  71283,
                                         "likes":  1782,
                                         "comments":  42,
                                         "free":  true
@@ -1050,7 +1050,7 @@
                                         "num":  22,
                                         "title":  "야행(夜行) (2)",
                                         "date":  "2026-03-24",
-                                        "views":  67546,
+                                        "views":  67547,
                                         "likes":  1954,
                                         "comments":  56,
                                         "free":  true
@@ -1059,7 +1059,7 @@
                                         "num":  23,
                                         "title":  "야행(夜行) (3)",
                                         "date":  "2026-03-25",
-                                        "views":  66331,
+                                        "views":  66332,
                                         "likes":  2078,
                                         "comments":  87,
                                         "free":  true
@@ -1401,7 +1401,7 @@
                                         "num":  61,
                                         "title":  "경매 (2)",
                                         "date":  "2026-05-01",
-                                        "views":  17287,
+                                        "views":  17288,
                                         "likes":  966,
                                         "comments":  57,
                                         "free":  false
@@ -2292,7 +2292,7 @@
                                         "num":  160,
                                         "title":  "OGA",
                                         "date":  "2026-08-21",
-                                        "views":  7395,
+                                        "views":  7396,
                                         "likes":  406,
                                         "comments":  25,
                                         "free":  false
@@ -2301,7 +2301,7 @@
                                         "num":  161,
                                         "title":  "테런스 월 (1)",
                                         "date":  "2026-08-23",
-                                        "views":  7241,
+                                        "views":  7242,
                                         "likes":  461,
                                         "comments":  37,
                                         "free":  false
@@ -2310,7 +2310,7 @@
                                         "num":  162,
                                         "title":  "테런스 월 (2)",
                                         "date":  "2026-08-24",
-                                        "views":  7186,
+                                        "views":  7187,
                                         "likes":  435,
                                         "comments":  39,
                                         "free":  false
@@ -2877,7 +2877,7 @@
                                         "num":  225,
                                         "title":  "알튼 툴파르 마이닝 (1)  ",
                                         "date":  "2026-11-11",
-                                        "views":  2463,
+                                        "views":  2465,
                                         "likes":  160,
                                         "comments":  11,
                                         "free":  false
@@ -2886,7 +2886,7 @@
                                         "num":  226,
                                         "title":  "알튼 툴파르 마이닝 (2)  ",
                                         "date":  "2026-11-12",
-                                        "views":  2302,
+                                        "views":  2303,
                                         "likes":  154,
                                         "comments":  25,
                                         "free":  false
@@ -2895,7 +2895,7 @@
                                         "num":  227,
                                         "title":  "메리디안",
                                         "date":  "2026-11-13",
-                                        "views":  2238,
+                                        "views":  2239,
                                         "likes":  149,
                                         "comments":  13,
                                         "free":  false
@@ -2967,7 +2967,7 @@
                                         "num":  235,
                                         "title":  "이달의 우수사원 (4)",
                                         "date":  "2026-11-23",
-                                        "views":  1414,
+                                        "views":  1415,
                                         "likes":  119,
                                         "comments":  21,
                                         "free":  false
@@ -2976,12 +2976,12 @@
                                         "num":  236,
                                         "title":  "셋업(Setup) (1)",
                                         "date":  "2026-11-24",
-                                        "views":  979,
+                                        "views":  986,
                                         "likes":  63,
                                         "comments":  8,
                                         "free":  false
                                     }
                                 ],
-                     "updatedAt":  "2026-11-25T08:39:57+09:00"
+                     "updatedAt":  "2026-11-25T08:53:59+09:00"
                  }
 }
