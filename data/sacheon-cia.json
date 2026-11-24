@@ -1,7 +1,7 @@
 {
     "id":  "sacheon-cia",
     "name":  "사천당가의 CIA 비밀 요원",
-    "updatedAt":  "2026-11-24T10:55:54+09:00",
+    "updatedAt":  "2026-11-24T11:12:57+09:00",
     "naver":  {
                   "url":  "https://series.naver.com/novel/detail.series?productNo=14384564",
                   "productNo":  "14384564",
@@ -19,7 +19,7 @@
                                  "매일10시무료"
                              ],
                   "cover":  "https://comicthumb-phinf.pstatic.net/20260626_78/pocket_1782457078183OF5lu_JPEG/%BB%E7%C3%B5%B4%E7%B0%A1%C0%C7_CIA_%BA%F1%B9%D0_%BF%E4%BF%F8_%C5%B8%C0%CC%C6%B2_%C3%D6%C1%BE.jpg?type=m600x314",
-                  "lastSuccess":  "2026-11-24T10:55:54+09:00",
+                  "lastSuccess":  "2026-11-24T11:12:57+09:00",
                   "lastError":  null
               },
     "munpia":  {
@@ -61,15 +61,15 @@
                    "cover":  "https://cdn1.munpia.com/v2/files/cover/2026/0616/12/FQrrTYgXMAA",
                    "introduction":  "사천 당가의 무인이었던 전생이 떠올랐다.\r\n그리고 떠난 미국 여행에서 하필 CIA 요원이랑 엮였다.",
                    "readers":  {
-                                   "male":  4627478,
-                                   "female":  477263,
+                                   "male":  4627509,
+                                   "female":  477267,
                                    "age10s":  1.6,
                                    "age20s":  5.7,
                                    "age30s":  25.8,
                                    "age40s":  32.3,
                                    "age50s":  34.6
                                },
-                   "lastSuccess":  "2026-11-24T10:55:54+09:00",
+                   "lastSuccess":  "2026-11-24T11:12:57+09:00",
                    "lastError":  null
                },
     "history":  [
@@ -751,19 +751,19 @@
                     {
                         "date":  "2026-11-24",
                         "platform":  "munpia",
-                        "at":  "2026-11-24T10:55:54+09:00",
-                        "views":  5344602,
-                        "likes":  196079,
+                        "at":  "2026-11-24T11:12:57+09:00",
+                        "views":  5344640,
+                        "likes":  196082,
                         "prefers":  29608,
                         "chapters":  235,
                         "characters":  1489251,
-                        "rank":  55,
-                        "rankBest":  55
+                        "rank":  54,
+                        "rankBest":  54
                     },
                     {
                         "date":  "2026-11-24",
                         "platform":  "naver",
-                        "at":  "2026-11-24T10:55:54+09:00",
+                        "at":  "2026-11-24T11:12:57+09:00",
                         "views":  4376000,
                         "viewsText":  "437.6만",
                         "comments":  4600,
@@ -1041,7 +1041,7 @@
                                         "num":  24,
                                         "title":  "야행(夜行) (4)",
                                         "date":  "2026-03-26",
-                                        "views":  67771,
+                                        "views":  67772,
                                         "likes":  2119,
                                         "comments":  120,
                                         "free":  true
@@ -1050,7 +1050,7 @@
                                         "num":  25,
                                         "title":  "캠프 피어리",
                                         "date":  "2026-03-27",
-                                        "views":  69494,
+                                        "views":  69495,
                                         "likes":  2010,
                                         "comments":  74,
                                         "free":  true
@@ -1563,7 +1563,7 @@
                                         "num":  82,
                                         "title":  "홍콩 경유 (1)",
                                         "date":  "2026-05-22",
-                                        "views":  14509,
+                                        "views":  14510,
                                         "likes":  843,
                                         "comments":  56,
                                         "free":  false
@@ -1572,7 +1572,7 @@
                                         "num":  83,
                                         "title":  "홍콩 경유 (2)",
                                         "date":  "2026-05-23",
-                                        "views":  14400,
+                                        "views":  14401,
                                         "likes":  771,
                                         "comments":  37,
                                         "free":  false
@@ -2364,7 +2364,7 @@
                                         "num":  171,
                                         "title":  "쟁탈전 (2)",
                                         "date":  "2026-09-06",
-                                        "views":  6285,
+                                        "views":  6286,
                                         "likes":  391,
                                         "comments":  25,
                                         "free":  false
@@ -2427,7 +2427,7 @@
                                         "num":  178,
                                         "title":  "경계 (2)",
                                         "date":  "2026-09-14",
-                                        "views":  5354,
+                                        "views":  5355,
                                         "likes":  307,
                                         "comments":  29,
                                         "free":  false
@@ -2436,7 +2436,7 @@
                                         "num":  179,
                                         "title":  "경계 (3)",
                                         "date":  "2026-09-15",
-                                        "views":  5416,
+                                        "views":  5417,
                                         "likes":  319,
                                         "comments":  29,
                                         "free":  false
@@ -2445,7 +2445,7 @@
                                         "num":  180,
                                         "title":  "굿바이, 모스크바",
                                         "date":  "2026-09-16",
-                                        "views":  5627,
+                                        "views":  5628,
                                         "likes":  320,
                                         "comments":  20,
                                         "free":  false
@@ -2796,7 +2796,7 @@
                                         "num":  219,
                                         "title":  "귀신 사냥 (1)",
                                         "date":  "2026-11-01",
-                                        "views":  2790,
+                                        "views":  2791,
                                         "likes":  166,
                                         "comments":  10,
                                         "free":  false
@@ -2877,7 +2877,7 @@
                                         "num":  228,
                                         "title":  "두바이 (1)",
                                         "date":  "2026-11-15",
-                                        "views":  2061,
+                                        "views":  2062,
                                         "likes":  146,
                                         "comments":  22,
                                         "free":  false
@@ -2931,7 +2931,7 @@
                                         "num":  234,
                                         "title":  "이달의 우수사원 (3)",
                                         "date":  "2026-11-22",
-                                        "views":  1442,
+                                        "views":  1446,
                                         "likes":  118,
                                         "comments":  13,
                                         "free":  false
@@ -2940,12 +2940,12 @@
                                         "num":  235,
                                         "title":  "이달의 우수사원 (4)",
                                         "date":  "2026-11-23",
-                                        "views":  1050,
-                                        "likes":  92,
+                                        "views":  1070,
+                                        "likes":  95,
                                         "comments":  16,
                                         "free":  false
                                     }
                                 ],
-                     "updatedAt":  "2026-11-24T10:55:54+09:00"
+                     "updatedAt":  "2026-11-24T11:12:57+09:00"
                  }
 }
